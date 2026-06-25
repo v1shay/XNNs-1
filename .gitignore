@@ -1,3 +1,6 @@
 __pycache__/
 *.py[cod]
 paper/datasets/
+core
+*transfer*.py
+.vscode/
