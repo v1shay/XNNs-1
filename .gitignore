@@ -1,7 +1,3 @@
 __pycache__/
-architectures/__pycache__/
-.pyc
-core
-*transfer*.py
-*.pyc
-.vscode/
+*.py[cod]
+paper/datasets/
